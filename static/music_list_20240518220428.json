@@ -1,0 +1,128 @@
+[
+    {
+        "id": "9527",
+        "name": "Github 歌单",
+        "cover": "images/album.png",
+        "creatorName": "EXP",
+        "creatorAvatar": "images/avatar.jpg",
+        "item": [
+            {
+                "id": "11a06c9de6187b719694204506276697",
+                "name": "ArqaKocha1",
+                "artist": "Kitab Oqush Munbiri",
+                "album": " Arqa Kocha  (Roman)  Perhat Tursun 1/10  ئارقا كوچا  (رومان)  پەرھات تۇرسۇن",
+                "url": "static/Arqa Kocha/ArqaKocha1.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "11a06c9de6187b719694204506276697",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "9b7879eb3562397e3e65f261b00b8f0e",
+                "name": "ArqaKocha2",
+                "artist": "Kitab Oqush Munbiri",
+                "album": " Arqa Kocha  (Roman)  Perhat Tursun 2 /10  ئارقا كوچا  (رومان)  پەرھات تۇرسۇن",
+                "url": "static/Arqa Kocha/ArqaKocha2.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "9b7879eb3562397e3e65f261b00b8f0e",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "9c408b9f02b5c13c2876420b8da3a862",
+                "name": "ArqaKocha3",
+                "artist": "Kitab Oqush Munbiri",
+                "album": " Arqa Kocha  (Roman)  Perhat Tursun  3/10  ئارقا كوچا  (رومان)  پەرھات تۇرسۇن",
+                "url": "static/Arqa Kocha/ArqaKocha3.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "9c408b9f02b5c13c2876420b8da3a862",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "90b5db065ba8af3b36012da754d0cec9",
+                "name": "ArqaKocha4",
+                "artist": "Kitab Oqush Munbiri",
+                "album": " Arqa Kocha  (Roman)  Perhat Tursun  4/10  ئارقا كوچا  (رومان)  پەرھات تۇرسۇن",
+                "url": "static/Arqa Kocha/ArqaKocha4.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "90b5db065ba8af3b36012da754d0cec9",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "b81e758241a5bd2df581cb35c1def531",
+                "name": "ArqaKocha5",
+                "artist": "Kitab Oqush Munbiri",
+                "album": " Arqa Kocha  (Roman)  Perhat Tursun 5/10  ئارقا كوچا  (رومان)  پەرھات تۇرسۇن",
+                "url": "static/Arqa Kocha/ArqaKocha5.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "b81e758241a5bd2df581cb35c1def531",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "3d0bcd105d840b021d0795c93d0e1c27",
+                "name": "ArqaKocha6",
+                "artist": "Kitab Oqush Munbiri",
+                "album": " Arqa Kocha  (Roman) Perhat Tursun 6/10  ئارقا كوچا  (رومان)  پەرھات تۇرسۇن",
+                "url": "static/Arqa Kocha/ArqaKocha6.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "3d0bcd105d840b021d0795c93d0e1c27",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "6475a676a4abb2e1f6836617fedd383f",
+                "name": "ArqaKocha7",
+                "artist": "Kitab Oqush Munbiri",
+                "album": " Arqa Kocha  (Roman)   Perhat Tursun 7/10  ئارقا كوچا  (رومان)  پەرھات تۇرسۇن",
+                "url": "static/Arqa Kocha/ArqaKocha7.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "6475a676a4abb2e1f6836617fedd383f",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "413ec9427744bebe09dc3d0fb89c5b41",
+                "name": "ArqaKocha8",
+                "artist": "Kitab Oqush Munbiri",
+                "album": " Arqa Kocha  (Roman)  Perhat Tursun  8/10  ئارقا كوچا  (رومان)  پەرھات تۇرسۇن",
+                "url": "static/Arqa Kocha/ArqaKocha8.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "413ec9427744bebe09dc3d0fb89c5b41",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "efb9a58a01caafbe1625e904d395ae28",
+                "name": "ArqaKocha9",
+                "artist": "Kitab Oqush Munbiri",
+                "album": " Arqa Kocha  (Roman)   Perhat Tursun 9/10  ئارقا كوچا  (رومان)  پەرھات تۇرسۇن",
+                "url": "static/Arqa Kocha/ArqaKocha9.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "efb9a58a01caafbe1625e904d395ae28",
+                "pic_id": "",
+                "lyric_id": ""
+            }
+        ]
+    }
+]
